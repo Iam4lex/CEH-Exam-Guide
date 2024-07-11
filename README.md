@@ -56,9 +56,9 @@ The Certified Ethical Hacker (CEH) certification is a globally recognized creden
 - **Chapter 8** - [Malware](https://yeahhub.com/cehv9-practice-exam-questions/chapter8-malware.php)
 - **Chapter 9** - [Sniffers](https://yeahhub.com/cehv9-practice-exam-questions/chapter9-sniffers.php)
 - **Chapter 10** - [Social Engineering](https://yeahhub.com/cehv9-practice-exam-questions/chapter10-social-engineering.php)
-- **Chapter 11** - 
+- **Chapter 11** - [Denial of Service](https://yeahhub.com/cehv9-practice-exam-questions/chapter11-denial-of-service.php)
 - **Chapter 12** - [Session Hijacking](https://yeahhub.com/cehv9-practice-exam-questions/chapter12-session-hijacking.php)
-- **Chapter 13** - [Assessment Test (35)](https://yeahhub.com/cehv9-practice-exam-questions/chapter0-assessment.php)
+- **Chapter 13** - [Denial of Service](https://yeahhub.com/cehv9-practice-exam-questions/chapter11-denial-of-service.php)
 - **Chapter 14** - [Assessment Test (35)](https://yeahhub.com/cehv9-practice-exam-questions/chapter0-assessment.php)
 - **Chapter 15** - [Assessment Test (35)](https://yeahhub.com/cehv9-practice-exam-questions/chapter0-assessment.php)
 - **Chapter 16** - [Assessment Test (35)](https://yeahhub.com/cehv9-practice-exam-questions/chapter0-assessment.php)
