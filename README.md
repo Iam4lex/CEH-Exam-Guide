@@ -64,5 +64,4 @@ The Certified Ethical Hacker (CEH) certification is a globally recognized creden
 - **Chapter 16** - [Mobile Device Security](https://yeahhub.com/cehv9-practice-exam-questions/chapter16-mobile-device-security.php)
 - **Chapter 17** - [Evasion](https://yeahhub.com/cehv9-practice-exam-questions/chapter17-evasion.php)
 - **Chapter 18** - [Cloud Technologies Security](https://yeahhub.com/cehv9-practice-exam-questions/chapter18-cloud-technologies-security.php)
-- **Chapter 19** - [Assessment Test (35)](https://yeahhub.com/cehv9-practice-exam-questions/chapter0-assessment.php)
-- **Chapter 20** - [Assessment Test (35)](https://yeahhub.com/cehv9-practice-exam-questions/chapter0-assessment.php)
+- **Chapter 19** - [Physical Security](https://yeahhub.com/cehv9-practice-exam-questions/chapter19-physical-security.php)
