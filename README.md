@@ -47,7 +47,7 @@ The Certified Ethical Hacker (CEH) certification is a globally recognized creden
 ## Practice Exams:
 - **Chapter 0** - [Assessment Test](https://yeahhub.com/cehv9-practice-exam-questions/chapter0-assessment.php)
 - **Chapter 1** - [Introduction](https://yeahhub.com/cehv9-practice-exam-questions/chapter1-introduction.php)
-- **Chapter 2** - [Assessment Test (35)](https://yeahhub.com/cehv9-practice-exam-questions/chapter0-assessment.php)
+- **Chapter 2** - [System Fundamentals](https://yeahhub.com/cehv9-practice-exam-questions/chapter2-system-fundamentals.php)
 - **Chapter 3** - [Assessment Test (35)](https://yeahhub.com/cehv9-practice-exam-questions/chapter0-assessment.php)
 - **Chapter 4** - [Assessment Test (35)](https://yeahhub.com/cehv9-practice-exam-questions/chapter0-assessment.php)
 - **Chapter 5** - [Assessment Test (35)](https://yeahhub.com/cehv9-practice-exam-questions/chapter0-assessment.php)
