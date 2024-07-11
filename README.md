@@ -44,5 +44,5 @@ The Certified Ethical Hacker (CEH) certification is a globally recognized creden
 - **Official Website:** [EC-Council CEH](https://www.eccouncil.org/programs/certified-ethical-hacker-ceh/)
 - **Study Guides:** [CEH v11 Official Study Guide](https://www.eccouncil.org/programs/certified-ethical-hacker-ceh/study-material/)
 
-## Repository Structure
-- **Practice Exams:** [Boson Practice Exams](https://www.boson.com/ceh-practice-exam)
+## Practice Exams:
+- **Chapter 0** - [Assessment Test (35)]([https://www.boson.com/ceh-practice-exam](https://yeahhub.com/cehv9-practice-exam-questions/chapter0-assessment.php))
